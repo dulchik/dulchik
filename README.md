@@ -1,5 +1,8 @@
 ## Hi, I'm Ab 👋
 
+I write and operate backend systems in Go and Python.
+ I'm looking for a new full time role, so if you know of any companies that need a skilled Go or Python engineer, [reach out!](https://www.linkedin.com/in/abdul-rahman-bubnjuk/)
+
 <!--
 **dulchik/dulchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🔭 I’m currently working on a chess puzzle game
 - 🌱 I’m currently learning how to build a shell in Go and how to build an interpreter in Go
 - 🐦 Follow my on Twitter [@dulchkk](https://x.com/dulchkk)
