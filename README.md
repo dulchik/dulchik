@@ -1,7 +1,7 @@
 ## Hi, I'm Ab 👋
 
 I write and operate backend systems in Go and Python.
- I'm looking for a new full time role, so if you know of any companies that need a skilled Go or Python engineer, [reach out!](https://www.linkedin.com/in/abdul-rahman-bubnjuk/)
+I'm looking for a new full time role, so if you know of any companies that need a skilled Go or Python engineer, [reach out!](https://www.linkedin.com/in/abdul-rahman-bubnjuk/)
 
 <!--
 **dulchik/dulchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
