@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a chess puzzle game
 - 🌱 I’m currently learning how to build a shell in Go and how to build an interpreter in Go
 - 🐦 Follow my on Twitter [@dulchkk](https://x.com/dulchkk)
+- 🐻 Take a look at my [Boot.dev profile](https://www.boot.dev/u/dulchik)
